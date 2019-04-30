@@ -9,6 +9,6 @@
 
 4、ros机器人操作系统的学习
 
-\- [x] Finish my changes
-\- [ ] Push my commits to GitHub
-\- [ ] Open a pull request
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
